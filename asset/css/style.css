@@ -1,0 +1,30 @@
+@import 'btn.css';
+@import 'alerte.css';
+@import 'container.css';
+@import 'form.css';
+
+
+
+:root{
+    --bc-blue: #0d6efd;
+    --bc-indigo: #6610f2;
+    --bc-purple: #6f42c1;
+    --bc-pink: #d63384;
+    --bc-red: #dc3545;
+    --bc-orange: #fd7e14;
+    --bc-yellow: #ffc107;
+    --bc-green: #198754;
+    --bc-teal: #20c997;
+    --bc-cyan: #0dcaf0;
+    --bc-white: #fff;
+    --bc-gray: #6c757d;
+    --bc-gray-dark: #343a40;
+    --bc-primary: #0d6efd;
+    --bc-secondary: #6c757d;
+    --bc-success: #198754;
+    --bc-info: #0dcaf0;
+    --bc-warning: #ffc107;
+    --bc-danger: #dc3545;
+    --bc-light: #f8f9fa;
+    --bc-dark: #212529;
+}
