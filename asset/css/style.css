@@ -2,6 +2,43 @@
 @import 'alerte.css';
 @import 'container.css';
 @import 'form.css';
+@import 'code.css';
+
+@font-face {
+    font-family: "JetBrainsMono-Bold";
+    src: url("asset\fonts\JetBrainsMono-Bold.woff2") format("woff2"),
+    url("https://alexcaussades.com/css-custom/fonts/JetBrainsMono-Bold.woff2") format("woff2");
+   }
+
+@font-face {
+    font-family: "JetBrainsMono-Italic";
+    src: url("asset\fonts\JetBrainsMono-Italic.woff2") format("woff2"),
+    url("https://alexcaussades.com/css-custom/fonts/JetBrainsMono-Italic.woff2") format("woff2");
+   }
+
+@font-face {
+    font-family: "JetBrainsMono-Light";
+    src: url("asset\fonts\JetBrainsMono-Light.woff2") format("woff2"),
+    url("https://alexcaussades.com/css-custom/fonts/JetBrainsMono-Light.woff2") format("woff2");
+   }
+
+@font-face {
+    font-family: "JetBrainsMono-Medium";
+    src: url("asset\fonts\JetBrainsMono-Medium.woff2") format("woff2"),
+    url("https://alexcaussades.com/css-custom/fonts/JetBrainsMono-Medium.woff2") format("woff2");
+   }
+
+@font-face {
+    font-family: "JetBrainsMono-Regular";
+    src: url("asset\fonts\JetBrainsMono-Regular.woff2") format("woff2"),
+    url("https://alexcaussades.com/css-custom/fonts/JetBrainsMono-Regular.woff2") format("woff2");
+   }
+
+@font-face {
+    font-family: "JetBrainsMono-Thin";
+    src: url("asset\fonts\JetBrainsMono-Thin.woff2") format("woff2"),
+    url("https://alexcaussades.com/css-custom/fonts/JetBrainsMono-Thin.woff2") format("woff2");
+   }
 
 
 

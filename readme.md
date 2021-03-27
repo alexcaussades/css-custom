@@ -22,7 +22,7 @@ gitclone https://github.com/alexcaussades/css-custom.git
 
 ---
 
-## `CDN feature`
+## `CDN`
 
 ```html
 <header>
@@ -32,12 +32,22 @@ gitclone https://github.com/alexcaussades/css-custom.git
   />
 
   <footer>
-    <link
-      rel="stylesheet"
-      href="https://alexcaussades.com/css-custom/js/main.js"
-    />
+     <script src="https://alexcaussades.com/css-custom/js/main.js"></script>
   </footer>
 </header>
 ```
 
 ---
+
+## `Typo Font import`
+
+**JetBrains mono. Une police conçue par et pour les développeurs.** =>
+[JetBrainsMono](https://www.jetbrains.com/fr-fr/lp/mono/#intro)
+
+1. JetBrainsMono-Bold
+2. JetBrainsMono-Italic
+3. JetBrainsMono-Light
+4. JetBrainsMono-Medium
+5. JetBrainsMono-Regular
+6. JetBrainsMono-Thin
+
